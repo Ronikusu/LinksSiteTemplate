@@ -1,4 +1,4 @@
-# testsite1
+#LinksSiteTemplate
 hello there! here is some info about this site:
 1. this is a links webpage.
 2. this is a template, feel free to use it.
