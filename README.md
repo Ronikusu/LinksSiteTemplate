@@ -7,4 +7,6 @@
 
 **eng**
 
-#english is marked as a WIP. sorry! ;(
+Hi!
+Here is the information you need to know about this Github template.
+- Please don't take credit for creating this template.
