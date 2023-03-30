@@ -1,2 +1,3 @@
-<div><span style="color: #ff0000">リ</span><span style="color: #ff4000">ン</span><span style="color: #ff7f00">ク</span><span style="color: #ffbf00">サ</span><span style="color: #ffff00">イ</span><span style="color: #aaff00">ト</span><span style="color: #55ff00">テ</span><span style="color: #00ff00">ン</span><span style="color: #00ff80">プ</span><span style="color: #00ffff">レ</span><span style="color: #0080ff">ー</span><span style="color: #0000ff">ト</span></div>
-私が取り組んできた小さなプロジェクトです。
+# リンクサイトテンプレート
+
+私が取り組んできた小さなプロジェクトです.
